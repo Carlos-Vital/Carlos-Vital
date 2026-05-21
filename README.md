@@ -41,7 +41,7 @@ Tenho também experiências com robótica e arduíno o que fortaleceu meu intere
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlos-vital&theme=tokyonight" alt="Carlos's Status" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carlos-Vital&theme=tokyonight" alt="Carlos's Status" />
 
 </div>
 
