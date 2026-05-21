@@ -49,7 +49,7 @@ Tenho também experiências com robótica e arduíno o que fortaleceu meu intere
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/Carlos Eduardo de Moraes Vital" target="_blank">
+  <a href="https://linkedin.com/in/carlos-eduardo-de-moraes-vital-504b822b1" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
